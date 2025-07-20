@@ -1,0 +1,10 @@
+{
+  "name": "sector",
+  "displayName": "Sector",
+  "components": [
+    {
+      "appKey": "sector",
+      "displayName": "Sector"
+    }
+  ]
+}
