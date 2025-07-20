@@ -1,0 +1,11 @@
+{
+  "extends": "react-native-wcandillon",
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  },
+  "rules": {
+    "react/react-in-jsx-scope": "error",
+    "import/no-default-export": "off"
+  }
+}
